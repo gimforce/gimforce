@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Laravel Framework
+
+
+![Jujutsu](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW12ZWRidTYyc241eHI0d3JvZng0bnRpd2ptdjdpaXpsZjJzZThobCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8J4UpZBiopdPyECto/giphy.gif)
