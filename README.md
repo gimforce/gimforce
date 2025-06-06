@@ -34,3 +34,6 @@ Here are some ideas to get you started:
 
 
 ![Jujutsu](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW12ZWRidTYyc241eHI0d3JvZng0bnRpd2ptdjdpaXpsZjJzZThobCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8J4UpZBiopdPyECto/giphy.gif)
+
+##### Play With Me
+<img src="https://raw.githubusercontent.com/gimforce/gimforce/output/snake.svg" alt="Snake animation" />
