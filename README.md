@@ -1,4 +1,4 @@
-## Hello World! I'm Gilang 👋
+![Gilang Ilham](github-header-image.png)
 
 <!--
 **gimforce/gimforce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
