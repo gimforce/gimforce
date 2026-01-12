@@ -28,10 +28,6 @@ Here are some ideas to get you started:
 ![https://instagram.com/glngilhm_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![http://www.linkedin.com/in/gilang-ilham-maulana-228341308](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-##### My Github Stats
-![Gilang's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimforce&show_icons=true&theme=tokyonight)
-
-
 
 ![Jujutsu](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW12ZWRidTYyc241eHI0d3JvZng0bnRpd2ptdjdpaXpsZjJzZThobCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8J4UpZBiopdPyECto/giphy.gif)
 
