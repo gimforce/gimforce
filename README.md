@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](github-header-image.png)
+![Header](header.png)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=8B8B8B&center=true&vCenter=true&random=false&width=400&lines=Frontend+Developer;Clean+Code+Enthusiast)](https://git.io/typing-svg)
 
