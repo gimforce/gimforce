@@ -30,22 +30,3 @@ I'm a Frontend Developer based in Indonesia 🇮🇩, passionate about crafting 
 
 &nbsp;
 
-### GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=gimforce&show_icons=true&theme=graywhite&hide_border=true&hide_title=true&hide_rank=true&icon_color=333" alt="stats"/>
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gimforce&layout=compact&theme=graywhite&hide_border=true&hide_title=true" alt="languages"/>
-
-</div>
-
-&nbsp;
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=gimforce&color=grey&style=flat&label=views)
-
-</div>
